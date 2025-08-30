@@ -1,10 +1,8 @@
 # 💰 Expense Tracker (Tkinter + SQLite + Matplotlib)
 
 A simple **Expense Tracker Desktop Application** built with **Python, Tkinter, SQLite3, and Matplotlib**.  
-This project is designed for beginners to learn **GUI programming**, **database handling**, and **data visualization** in Python.  
 
 You can **add, update, delete, and view expenses**, along with a **pie chart** showing spending by category.  
-The repository also includes a **sample `expenses.db` database** so you can experiment right away.  
 
 ---
 
@@ -75,26 +73,7 @@ You can delete it anytime — the app will create a new database automatically.
 
 ![Expense Tracker Screenshot](expense_tracker_screenshot.png)
 
----
-
-## 🎥 YouTube Tutorial
-
-👉 Watch the full tutorial here: [https://youtube.com/@ag_youtube?si=85gRFD9z8CAm4qNk](https://youtube.com/@ag_youtube?si=85gRFD9z8CAm4qNk)
 
 ---
-
-## 🤝 Contributing
-
-Feel free to fork this repo and play around with:
-
-- Adding search/filter options  
-- Exporting data to CSV/Excel  
-- Adding monthly/weekly summaries  
-
----
-
-## 📜 License
-
-This project is **free to use** for learning purposes.
 
 
